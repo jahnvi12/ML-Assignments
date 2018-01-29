@@ -1,0 +1,1 @@
+Residual Sum of Squares: 7.57652020078

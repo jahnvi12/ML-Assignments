@@ -1,0 +1,4 @@
+Accuracy score: 0.835
+Precision score: 0.834188034188
+Recall score: 0.828522920204
+F measure: 0.831345826235

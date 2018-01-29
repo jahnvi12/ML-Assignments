@@ -1,0 +1,3 @@
+The directory structure is followed as specified.
+Folders within code contain files like: result.txt for storing the required results, params.txt for any input parameters, coeffs.csv for coefficients of regression.
+Also, note that the file path has been given assuming that all the run.py files would be executed from their corresponding folders.
